@@ -1,0 +1,9 @@
+.button-container button{
+    padding: 15px;
+    font-size: 1.2em;
+    border-radius: 10px;
+    border: none;
+    background-color: red;
+    color: white;
+    box-shadow: 2px 2px 2px black;
+}
